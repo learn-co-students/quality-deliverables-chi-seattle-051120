@@ -84,7 +84,7 @@ Like notebooks and READMEs, decks are difficult to construct!  Practice makes pe
 
 ### Cheat Sheets
 
-In the `cheat_sheets` directory are markdown files with the best practices from the deck gone over in  class.
+In the `cheat_sheets` [directory](https://github.com/learn-co-students/quality-deliverables-chi-seattle-051120/tree/master/cheat_sheets) are markdown files with the best practices from the deck gone over in  class.
 
 [markdown](cheat_sheets/markdown_cheat_sheet.md)
 
