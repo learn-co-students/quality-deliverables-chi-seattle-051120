@@ -55,7 +55,7 @@ In the `progressive_notebook_structure_example` directory are three examples of 
 `V1` is offered as an illustration of how frustrating it is to read books that aren't structured.  **This includes both the work of other people and your own work when you come back to it later**.  `V2` and `V3` are a little more structure than is necessary for an "exploratory" notebook, but are about right for "subject" notebooks (eg data cleaning, EDA, etc.) that are works-in-progress.
 
 #### Viz
-The files in the top-level `Viz` directory are straight-forwardly labeld from `viz_bad.png` to `viz_best.png`.  
+The files in the top-level `Viz` directory are straight-forwardly labeled from `viz_bad.png` to `viz_best.png`.  
 
 `viz_better.png` represents something that's ok for noodling around in an exploratory notebook in order to check a quick illustration of something, but `viz_good.png` represents the minimum for a "quality visual" that should be in a README or a deck.
 
