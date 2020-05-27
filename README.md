@@ -28,7 +28,7 @@ In general,
 - line breaks 
 ---
 - [link to urls](https://giphy.com/gifs/dance-brad-pitt-workout-Y7O3LHmhllEk)
-- [link to repos](https://github.com/learn-co-students/dsc-chi-quality-deliverables/viz)
+- [link to repos](https://github.com/learn-co-students/dsc-chi-quality-deliverables/tree/master/viz)
 - links to files w/i repo directories (in the case below, a gif in the `viz` directory)
 
 ![link to viz](viz/markdown_link_example.gif)
